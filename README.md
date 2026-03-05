@@ -1,2 +1,3 @@
 # dizajnsoftvera11
 dizajn softvera projekat
+mvc factoy ...
